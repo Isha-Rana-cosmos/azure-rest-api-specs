@@ -2631,9 +2631,6 @@
         "x-ms-examples": {
           "CosmosDBDatabaseAccountPatch": {
             "$ref": "./examples/CosmosDBDatabaseAccountPatch.json"
-          },
-          "Enable Integrated Embeddings on an existing account": {
-            "$ref": "./examples/CosmosDBDatabaseAccountEnableEmbeddingGenerator.json"
           }
         },
         "x-ms-long-running-operation-options": {
